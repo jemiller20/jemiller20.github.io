@@ -14,10 +14,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jemiller20.github.io/resume/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jemiller20.github.io/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
